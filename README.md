@@ -10,7 +10,7 @@
 
 ## Docker 镜像
 
-Docker Hub: https://hub.docker.com/r/hza800755/istoreos
+Docker Hub: https://hub.docker.com/r/hza800755/istoreos-x86-64
 
 可用标签:
 - `latest`: 始终指向最新版本
